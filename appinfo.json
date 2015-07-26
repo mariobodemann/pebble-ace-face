@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mario.bodemann@gmail.com",
+    "longName": "Ace Face",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/badge.png",
+                "name": "IMAGE_BATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/her_arm.png",
+                "name": "IMAGE_HER_ARM",
+                "type": "png"
+            },
+            {
+                "file": "images/his_arm.png",
+                "name": "IMAGE_HIS__ARM",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Ace Face",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4daed8da-1020-4f1d-be04-80c23d227f10",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
